@@ -1,5 +1,5 @@
 # X1S-Cheatz
-Minecraft Ghost Client for 1.8.9
+CS:GO Open Source cheat.
 
 -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
 
